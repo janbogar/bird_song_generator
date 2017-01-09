@@ -12,7 +12,8 @@ Changes compared to the original:
 
 Variables meaning (see the original):  
 y = [ xp , y , xk,  x , y  ]  
- ...|    brain   |  syrinx |  
+xp,y,xk - brain variables  
+x,y - syrinx variables  
 
 Some changes would have to be done to remove the pops between the syllables
 
